@@ -1,2 +1,2 @@
 # squareWaveAudio
-Square wave is converted to audio with Fourier Series Expansion and plotted.
+Square wave is converted to audio in WAV file with Fourier Series Expansion and plotted.
